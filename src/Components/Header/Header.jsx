@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom"
 
 const Header = () => {
   return (
-    <div className="bg-gray-500 text-white font-semibold">
+    <div className="bg-black text-white font-semibold py-6">
       <nav className="flex justify-between items-center max-w-screen-2xl mx-auto">
           <div id="nav-logo" className="">
             <img src="/public/assets/Header/navlogo.png" alt="" />
